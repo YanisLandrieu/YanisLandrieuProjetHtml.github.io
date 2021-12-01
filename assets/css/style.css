@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.navbar {
+background: #94B3FD;
+}
+
+
+
+#about {
+    height: 100vh;
+    width: auto;
+    background-color: #B983FF;
+}
+
+
+
+#Navbar {
+    height: 10vh;
+    width: auto;
+}
+
+ a {
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    color: #000;
+    margin-left: 5px;
+  
+}
+
+.nav-link:hover {
+    background-color: #99FEFF;
+}
+
+.navbar-nav {
+    color: #99FEFF;
+}
+
+label {
+    color: #99FEFF;
+}
+
+h2, 
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: #99FEFF; 
+}
+h2 {
+    color: #99FEFF;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+
+hr,
+h3 {
+    color: #99FEFF;
+     
+}
+
+img {
+	height: 160px;
+    margin-top: 10px;
+}
+
+h5 {
+    color: #99FEFF;
+    background-color: blue;
+    
+}
+div h5  {
+    text-decoration: none;
+}
+
+#about h4 {
+    font-size: 26px;
+    color: #99FEFF;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#about p {
+    font-size: 14px;
+    color: #99FEFF;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+.nav-link:hover {
+   color: #99FEFF;
+}
+
+.nav-link {
+    padding-right: 30px;
+    color: #99FEFF;
+}
+
+footer {
+    background-color: #94B3FD;
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer div {
+    color:#99FEFF;
+}
